@@ -23,11 +23,11 @@ Ensure that you have the following software installed:
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/yourusername/TwitterSentimentAnalysis.git
+    git clone https://github.com/BohdanBabii/sentiment_analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd TwitterSentimentAnalysis
+    cd sentiment_analysis
     ```
 3. Install the required Python libraries:
     ```bash
